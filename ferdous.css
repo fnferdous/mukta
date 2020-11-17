@@ -1,0 +1,312 @@
+*{padding:0;
+margin:0;
+}
+.container{
+	
+	width:1300px;
+	height: px;
+	margin: auto;
+	
+}
+.topbarwrapper{
+	overflow: hidden;
+}
+#topbar{
+	background:#f5f5f6;
+}
+.menu{
+	
+	float: left;
+	width:550px;
+	padding:10px;
+	padding-top: 15px
+}
+.menu i{
+	font-size:25px;
+	
+}
+.logo{
+	float:left;
+	padding:10px;
+	width:480px;
+}
+.logo img{
+	width:150px;
+}
+.user{
+	float:left;
+	padding:10px;
+	padding-right:1px;
+	width:
+}
+.user img{
+	width:60px;
+}
+.shell{
+	float:left;
+	padding:10px;
+	padding-right:5px;
+	width:
+}
+.shell img{
+	width:20px;
+}
+.shell img{
+	width:30px;
+	padding:5px;
+}
+.cart{
+	float:left;
+	padding:10px;
+	width:
+}
+.search{
+	padding:20px;
+}
+.search i{
+	font-size:25px;
+}
+
+
+
+
+
+
+#homeslider{
+	background: url(image/Untitled.png);
+	background-repeat: no-repeat;
+	background-position: 100%;
+	height: 600px;
+	background-size:cover;
+}
+
+
+#discover{
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+h1{
+	font-size: 40px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    line-height: 4.5rem;
+    margin-bottom: 0;
+}
+p{
+	font-family:'Raleway',sans-serif;
+	font-size:25px;
+}
+
+
+
+
+#image{
+	padding: 30px 50px;
+}
+.image img{
+	padding:0 10px;
+	width: 400px;
+	float: left;
+	transition:2s;
+	
+}
+
+.imga img{
+	padding:0 10px;
+	width: 400px;
+	float: left;
+	transition:2s;
+}
+.pic img{
+	padding:0 10px;
+	width: 400px;
+	float: left;
+	transition:2s;
+}
+.image:hover img{
+	transform:scale(1.1);
+}
+.imga:hover img{
+	transform:scale(1.1);
+}
+.pic:hover img{
+	transform:scale(1.1);
+
+
+}
+.home img{
+	width: 1300px;
+	padding:40px 0;
+
+	
+}
+
+
+#discover{
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:30px;
+}
+h1{
+	font-size: 40px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    line-height: 4.5rem;
+    margin-bottom: 0;
+}
+p{
+	font-family:'Raleway',sans-serif;
+	font-size:25px;
+}
+
+
+
+#zodiac{
+	padding: 30px 50px;
+}
+.zodiac img{
+	padding:0 10px;
+	width: 300px;
+	float: left;
+	transition:2s;
+}
+.charming img{
+	padding:0 10px;
+	width: 300px;
+	float: left;
+	transition:2s;
+}
+.flamboyant img{
+	padding:0 10px;
+	width: 300px;
+	float: left;
+	transition:2s;
+}
+.bold img{
+	padding:0 10px;
+	width: 300px;
+	float: left;
+	transition:2s;
+}
+.zodiac:hover img{
+	transform:scale(1.1);
+}
+.charming:hover img{
+	transform:scale(1.1);
+}
+.flamboyant:hover img{
+	transform:scale(1.1);
+}
+.bold:hover img{
+	transform:scale(1.1);
+}
+
+
+
+
+
+.collection img{
+	width: 1300px;
+	padding-top: 50px;
+
+}
+
+
+#team{
+	
+padding-left: 195px;
+}
+.syma img{
+	padding:0 10px;
+	width: 300px;
+	float: left;
+}
+.faria img{
+	padding:0 10px;
+	width: 300px;
+	float: left;
+}
+.nazya img{
+	padding:0 10px;
+	width: 300px;
+	float: left;
+	
+}
+
+
+
+#ourteam{
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:20px;
+}
+h1{
+	font-size: 40px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    line-height: 4.5rem;
+    margin-bottom: 0;
+}
+
+
+#location{
+	padding-left: 10px;
+}
+.location img{
+
+	width: 400px;
+	float: left;
+	padding: 45px 10px;
+	height: 350px;
+	
+}
+.chobi img{
+	width:400px;
+	float: left;
+	padding: 0 10px;
+	padding: 45px 10px;
+		height: 350px;
+}
+
+
+
+
+#footer{
+	background: #00125c;
+	height: 150px;
+	text-align: center;
+	color: white;
+	padding-top: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
